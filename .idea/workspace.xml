@@ -7,6 +7,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1jBWpYQS54ZM26L2WeDTuA2uLSc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -16,7 +22,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/error-indicator" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -26,11 +38,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603278155534</updated>
-      <workItem from="1603278155902" duration="157000" />
+      <workItem from="1603278155902" duration="31435000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="298" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603314954033">
+      <screen x="0" y="22" width="1920" height="1012" />
+    </state>
+    <state x="298" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603314954033" />
+    <state x="0" y="166" key="SettingsEditor" timestamp="1603280593012">
+      <screen x="0" y="22" width="1920" height="1012" />
+    </state>
+    <state x="0" y="166" key="SettingsEditor/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603280593012" />
+    <state x="159" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1603316887207">
+      <screen x="0" y="22" width="1920" height="1012" />
+    </state>
+    <state x="159" y="243" width="672" height="678" key="search.everywhere.popup/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603316887207" />
   </component>
 </project>
