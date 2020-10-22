@@ -7,6 +7,8 @@ import './random-planet.css';
 import {compose} from '../hoc-helpers';
 import {withSwapiService} from "../hoc-helpers";
 
+import PropTypes from 'prop-types';
+
 const mapPlanetMethodsToProps = (swapiService) => {
   return {
     getPlanet: swapiService.getPlanet
@@ -17,6 +19,10 @@ class RandomPlanet extends Component {
 
   static defaultProps = {
     updateInterval: 10000
+  }
+
+  static propTypes = {
+    updateInterval: PropTypes.number
   }
 
   state = {
@@ -42,7 +48,7 @@ class RandomPlanet extends Component {
     });
   };
 
-  onError = (err) => {
+  onError = () => {
     this.setState({
       error: true,
       loading: false

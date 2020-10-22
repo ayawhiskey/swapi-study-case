@@ -20,29 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79cce850-69b4-4b7f-9881-26e4b07b34ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/hoc-helpers/with-child-functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/people-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/planet-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/starship-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hoc-helpers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc-helpers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hoc-helpers/with-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc-helpers/with-data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/hoc-helpers/with-swapi-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc-helpers/with-swapi-service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/item-details/item-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-details/item-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/item-list/item-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-list/item-list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/people-page/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/people-page/people-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc-helpers/compose.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/people-page/people-page.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/random-planet/random-planet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/random-planet/random-planet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sw-components/item-lists.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sw-components/item-lists.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sw-components/person-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sw-components/person-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sw-components/planet-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sw-components/planet-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sw-components/starship-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sw-components/starship-details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/row/row.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/row/row.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +79,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.test.js" />
         <item itemvalue="npm.start" />
+        <item itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -110,8 +93,17 @@
       <option name="presentableId" value="Default" />
       <updated>1603278155534</updated>
       <workItem from="1603278155902" duration="31567000" />
-      <workItem from="1603345330799" duration="6447000" />
+      <workItem from="1603345330799" duration="7904000" />
+      <workItem from="1603373281814" duration="136000" />
     </task>
+    <task id="LOCAL-00001" summary="091 - dev">
+      <created>1603363488881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603363488883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,45 +119,54 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="091 - dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="091 - dev" />
   </component>
   <component name="WindowStateProjectService">
     <state x="298" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603314954033">
       <screen x="0" y="22" width="1920" height="1012" />
     </state>
     <state x="298" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603314954033" />
-    <state width="1073" height="242" key="GridCell.Tab.0.bottom" timestamp="1603362694752">
+    <state width="1073" height="242" key="GridCell.Tab.0.bottom" timestamp="1603363936966">
       <screen x="0" y="23" width="1920" height="1011" />
     </state>
     <state width="1096" height="274" key="GridCell.Tab.0.bottom/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603353571952" />
-    <state width="1073" height="242" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603362694752" />
-    <state width="1073" height="242" key="GridCell.Tab.0.center" timestamp="1603362694750">
+    <state width="1073" height="242" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603363936966" />
+    <state width="1073" height="242" key="GridCell.Tab.0.center" timestamp="1603363936965">
       <screen x="0" y="23" width="1920" height="1011" />
     </state>
     <state width="1096" height="274" key="GridCell.Tab.0.center/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603353571947" />
-    <state width="1073" height="242" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603362694750" />
-    <state width="1073" height="242" key="GridCell.Tab.0.left" timestamp="1603362694748">
+    <state width="1073" height="242" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603363936965" />
+    <state width="1073" height="242" key="GridCell.Tab.0.left" timestamp="1603363936964">
       <screen x="0" y="23" width="1920" height="1011" />
     </state>
     <state width="1096" height="274" key="GridCell.Tab.0.left/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603353571947" />
-    <state width="1073" height="242" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603362694748" />
-    <state width="1073" height="242" key="GridCell.Tab.0.right" timestamp="1603362694751">
+    <state width="1073" height="242" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603363936964" />
+    <state width="1073" height="242" key="GridCell.Tab.0.right" timestamp="1603363936965">
       <screen x="0" y="23" width="1920" height="1011" />
     </state>
     <state width="1096" height="274" key="GridCell.Tab.0.right/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603353571951" />
-    <state width="1073" height="242" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603362694751" />
+    <state width="1073" height="242" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603363936965" />
     <state x="0" y="166" key="SettingsEditor" timestamp="1603280593012">
       <screen x="0" y="22" width="1920" height="1012" />
     </state>
     <state x="0" y="166" key="SettingsEditor/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603280593012" />
+    <state x="151" y="265" key="Vcs.Push.Dialog.v2" timestamp="1603363492893">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="151" y="265" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603363492893" />
     <state x="255" y="143" width="617" height="771" key="find.popup" timestamp="1603362110518">
       <screen x="0" y="23" width="1920" height="1011" />
     </state>
     <state x="255" y="142" width="617" height="771" key="find.popup/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603359226419" />
     <state x="255" y="143" width="617" height="771" key="find.popup/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603362110518" />
-    <state x="159" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1603363160588">
+    <state x="159" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1603364176045">
       <screen x="0" y="23" width="1920" height="1011" />
     </state>
     <state x="159" y="243" width="672" height="678" key="search.everywhere.popup/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603360601936" />
-    <state x="159" y="244" width="672" height="678" key="search.everywhere.popup/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603363160588" />
+    <state x="159" y="244" width="672" height="678" key="search.everywhere.popup/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603364176045" />
   </component>
 </project>

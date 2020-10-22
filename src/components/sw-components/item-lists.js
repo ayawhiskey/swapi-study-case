@@ -4,6 +4,8 @@ import { withData, withSwapiService } from '../hoc-helpers';
 import withChildFunction from "../hoc-helpers/with-child-functions";
 import compose from "../hoc-helpers/compose";
 
+const renderNameAndBirthYear = ({ name, birthYear }) => <span>{name} ({birthYear})</span>;
+const renderNameAndModel = ({ name, model }) => <span>{name} ({model})</span>
 const renderName = ({ name }) => <span>{name}</span>;
 
 const mapPersonMethodsToProps = (swapiService) => {
@@ -27,7 +29,7 @@ const mapStarshipMethodsToProps = (swapiService) => {
 const PersonList = compose(
   withSwapiService(mapPersonMethodsToProps),
   withData,
-  withChildFunction(renderName)
+  withChildFunction(renderNameAndBirthYear)
 )(ItemList);
 
 const PlanetList = compose(
@@ -39,7 +41,7 @@ const PlanetList = compose(
 const StarshipList = compose(
   withSwapiService(mapStarshipMethodsToProps),
   withData,
-  withChildFunction(renderName)
+  withChildFunction(renderNameAndModel)
 )(ItemList);
 
 
