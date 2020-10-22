@@ -1,11 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="79cce850-69b4-4b7f-9881-26e4b07b34ff" name="Default Changelist" comment="" />
+    <list default="true" id="79cce850-69b4-4b7f-9881-26e4b07b34ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/hoc-helpers/with-child-functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/people-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/planet-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/starship-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hoc-helpers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc-helpers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hoc-helpers/with-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc-helpers/with-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hoc-helpers/with-swapi-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc-helpers/with-swapi-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-details/item-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-details/item-details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-list/item-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-list/item-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/people-page/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/people-page/people-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc-helpers/compose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/people-page/people-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/random-planet/random-planet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/random-planet/random-planet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sw-components/item-lists.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sw-components/item-lists.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sw-components/person-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sw-components/person-details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sw-components/planet-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sw-components/planet-details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sw-components/starship-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sw-components/starship-details.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -14,6 +59,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1jBWpYQS54ZM26L2WeDTuA2uLSc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,13 +70,36 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/error-indicator" />
     </key>
+  </component>
+  <component name="RunManager" selected="Node.js.test.js">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/test.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,25 +109,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603278155534</updated>
-      <workItem from="1603278155902" duration="31435000" />
+      <workItem from="1603278155902" duration="31567000" />
+      <workItem from="1603345330799" duration="6447000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="298" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603314954033">
       <screen x="0" y="22" width="1920" height="1012" />
     </state>
     <state x="298" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603314954033" />
+    <state width="1073" height="242" key="GridCell.Tab.0.bottom" timestamp="1603362694752">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1096" height="274" key="GridCell.Tab.0.bottom/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603353571952" />
+    <state width="1073" height="242" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603362694752" />
+    <state width="1073" height="242" key="GridCell.Tab.0.center" timestamp="1603362694750">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1096" height="274" key="GridCell.Tab.0.center/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603353571947" />
+    <state width="1073" height="242" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603362694750" />
+    <state width="1073" height="242" key="GridCell.Tab.0.left" timestamp="1603362694748">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1096" height="274" key="GridCell.Tab.0.left/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603353571947" />
+    <state width="1073" height="242" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603362694748" />
+    <state width="1073" height="242" key="GridCell.Tab.0.right" timestamp="1603362694751">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1096" height="274" key="GridCell.Tab.0.right/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603353571951" />
+    <state width="1073" height="242" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603362694751" />
     <state x="0" y="166" key="SettingsEditor" timestamp="1603280593012">
       <screen x="0" y="22" width="1920" height="1012" />
     </state>
     <state x="0" y="166" key="SettingsEditor/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603280593012" />
-    <state x="159" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1603316887207">
-      <screen x="0" y="22" width="1920" height="1012" />
+    <state x="255" y="143" width="617" height="771" key="find.popup" timestamp="1603362110518">
+      <screen x="0" y="23" width="1920" height="1011" />
     </state>
-    <state x="159" y="243" width="672" height="678" key="search.everywhere.popup/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603316887207" />
+    <state x="255" y="142" width="617" height="771" key="find.popup/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603359226419" />
+    <state x="255" y="143" width="617" height="771" key="find.popup/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603362110518" />
+    <state x="159" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1603363160588">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="159" y="243" width="672" height="678" key="search.everywhere.popup/-1440.22.1440.878/0.22.1920.1012@0.22.1920.1012" timestamp="1603360601936" />
+    <state x="159" y="244" width="672" height="678" key="search.everywhere.popup/-1440.23.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1603363160588" />
   </component>
 </project>
