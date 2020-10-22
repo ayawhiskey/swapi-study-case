@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Row  from '../row';
 import { withRouter } from 'react-router-dom';
 

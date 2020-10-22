@@ -7,7 +7,7 @@ import './header.css';
 const Header = () => {
 
   const buttonsLabels = [
-    'people', 'planets', 'starships'
+    'people', 'planets', 'starships', 'secret', 'login'
   ]
 
   const upperCaseFirstChar = (string) => {
